@@ -1,2 +1,4 @@
 # Vaishnavi-coder
-this is my first git repository
+this is my first git repository 
+
+Author - Vaishnavi Aher
